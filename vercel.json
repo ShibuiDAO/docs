@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ph1p/vercel-vscode-schemes/master/schemas/vercel.json",
+  "redirects": [
+    {
+        "source": "/github",
+        "destination": "https://github.com/ShibuiDAO",
+        "permanent": true
+    },
+    {
+      "source": "/twitter",
+      "destination": "https://twitter.com/shibuidao",
+      "permanent": true
+    },
+    {
+      "source": "/discord",
+      "destination": "https://discord.gg/2nQRWWHZzE",
+      "permanent": true
+    }
+  ]
+}
