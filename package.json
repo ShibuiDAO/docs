@@ -1,5 +1,6 @@
 {
   "name": "@shibuidao/docs",
+  "description": "ShibuiDAO and projects developer documentation.",
   "version": "1.0.0",
   "license": "UNLICENSED",
   "private": true,
