@@ -7,8 +7,8 @@ This subgraph tracks SellOrder and BuyOrder structures accounts (wallet or contr
 ## How can I access?
 
  * Boba Rinkeby
-   * Boba's The Graph node: https://graph.rinkeby.boba.network:8000/subgraphs/name/shibuidao/nft-exchange/
-   * Indexing status API: https://graph.rinkeby.boba.network:8030/graphql
+   * Boba's The Graph node: [https://graph.rinkeby.boba.network:8000/subgraphs/name/shibuidao/nft-exchange/](https://graph.rinkeby.boba.network:8000/subgraphs/name/shibuidao/nft-exchange/)
+   * Indexing status API: [https://graph.rinkeby.boba.network:8030/graphql](https://graph.rinkeby.boba.network:8030/graphql)
 
 ## Type definitions
 
