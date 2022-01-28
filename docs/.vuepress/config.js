@@ -19,10 +19,15 @@ module.exports = {
           { text: "Overview", link: "/nft/" },
           {
             text: "Subgraphs",
-            items: [
-              { text: "Exchange", link: "/nft/subgraph/Exchange.md" },
-            ],
+            items: [{ text: "Exchange", link: "/nft/subgraph/Exchange.md" }],
           },
+        ],
+      },
+      {
+        text: "Nova",
+        items: [
+          { text: "Overview", link: "/nova/" },
+          { text: "Reference relayer", link: "/nova/ReferenceRelayer.md" },
         ],
       },
     ],

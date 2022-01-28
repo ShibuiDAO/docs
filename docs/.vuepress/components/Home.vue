@@ -41,6 +41,7 @@ DEALINGS IN THE SOFTWARE.
       <h2>Developer Documentation</h2>
 
       <a class="action-button" href="/nft/"><u>NFT Marketplace</u> Docs</a>
+      <a class="action-button" href="/nova/"><u>Nova</u> Docs</a>
       <br />
       <a class="action-button" href="/contracts/"><u>Deployed Contracts</u></a>
       <br />
