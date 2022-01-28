@@ -2,7 +2,7 @@
   "name": "@shibuidao/docs",
   "description": "ShibuiDAO and projects developer documentation.",
   "version": "1.0.0",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "docs:dev": "vuepress dev docs",

@@ -1,7 +1,7 @@
 const { description } = require("../../package");
 
 module.exports = {
-  title: "Shibui DAO",
+  title: "ShibuiDAO",
   description: description,
 
   themeConfig: {
