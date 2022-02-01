@@ -15,6 +15,11 @@
       "source": "/discord",
       "destination": "https://discord.gg/2nQRWWHZzE",
       "permanent": true
+    },
+    {
+      "source": "/telegram",
+      "destination": "https://t.me/shibuidao",
+      "permanent": true
     }
   ]
 }
