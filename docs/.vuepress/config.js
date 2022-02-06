@@ -30,6 +30,7 @@ module.exports = {
           { text: "Reference relayer", link: "/nova/ReferenceRelayer.md" },
         ],
       },
+      { text: "Deployed Contracts", link: "/contracts/" },
     ],
 
     sidebarDepth: 10,
