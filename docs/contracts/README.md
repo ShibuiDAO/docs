@@ -14,3 +14,12 @@
  - **[RoyaltyEngineV1](https://github.com/ShibuiDAO/royalty-registry/blob/main/src/contracts/RoyaltyEngineV1.sol)**
    - **Boba Mainnet: `0x523DC4588ce47e17854B26296458946b9052b9ED`**
    - **Boba Rinkeby: `N/A`**
+
+## Exchange
+
+ - **[ERC721ExchangeUpgradeable](https://github.com/ShibuiDAO/exchange/blob/main/src/contracts/ERC721ExchangeUpgradeable.sol)**
+   - **Boba Mainnet: `0x90FcE03520C45c2da9A1d4212f51c83A1f7e4D20`**
+   - **Boba Rinkeby: `N/A`**
+ - **[OrderBookUpgradeable](https://github.com/ShibuiDAO/exchange/blob/main/src/contracts/OrderBookUpgradeable.sol)**
+   - **Boba Mainnet: `0xAbD7eEc5258e7C7a263b091915Df5476D297cAA2`**
+   - **Boba Rinkeby: `N/A`**
