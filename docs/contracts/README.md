@@ -10,10 +10,10 @@
 
  - **[RoyaltyRegistry](https://github.com/ShibuiDAO/royalty-registry/blob/main/src/contracts/RoyaltyRegistry.sol)**
    - **Boba Mainnet: `0xF65F2242f4311A78D737d9234d79180116A81a42`**
-   - **Boba Rinkeby: `N/A`**
+   - **Boba Rinkeby: `0xC77f1db2BccB591cE7cb3f00AB2cF306D704591E`**
  - **[RoyaltyEngineV1](https://github.com/ShibuiDAO/royalty-registry/blob/main/src/contracts/RoyaltyEngineV1.sol)**
    - **Boba Mainnet: `0x523DC4588ce47e17854B26296458946b9052b9ED`**
-   - **Boba Rinkeby: `N/A`**
+   - **Boba Rinkeby: `0xdC894fD9b5eA14879D43D464bB5CF439643951a8`**
 
 ## Exchange
 
