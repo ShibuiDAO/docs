@@ -19,7 +19,7 @@
 
  - **[ERC721ExchangeUpgradeable](https://github.com/ShibuiDAO/exchange/blob/main/src/contracts/ERC721ExchangeUpgradeable.sol)**
    - **Boba Mainnet: `0x90FcE03520C45c2da9A1d4212f51c83A1f7e4D20`**
-   - **Boba Rinkeby: `N/A`**
+   - **Boba Rinkeby: `0xd9Eb8E862746907aA5f334C5ab1FF8aF9BD8eB03`**
  - **[OrderBookUpgradeable](https://github.com/ShibuiDAO/exchange/blob/main/src/contracts/OrderBookUpgradeable.sol)**
    - **Boba Mainnet: `0xAbD7eEc5258e7C7a263b091915Df5476D297cAA2`**
-   - **Boba Rinkeby: `N/A`**
+   - **Boba Rinkeby: `0xE86E8DdfA6F87578B3fb29cCAb6D216AF1cEF96A`**
