@@ -19,10 +19,10 @@
 
  - **[ERC721ExchangeUpgradeable](https://github.com/ShibuiDAO/exchange/blob/main/src/contracts/ERC721ExchangeUpgradeable.sol)**
    - **Boba Mainnet: [`0x02AF48A420F0934ecFc1C34f6dA83DB1E3e56AF7`](https://blockexplorer.boba.network/address/0x02AF48A420F0934ecFc1C34f6dA83DB1E3e56AF7/transactions)**
-   - **Boba Rinkeby: [`0x76352a916B57800732D5f16D9b511C506ded850c`](https://blockexplorer.rinkeby.boba.network/address/0x76352a916B57800732D5f16D9b511C506ded850c/transactions)**
+   - **Boba Rinkeby: [`0x34755A949E68b18F585eB91711351b697C1563d5`](https://blockexplorer.rinkeby.boba.network/address/0x34755A949E68b18F585eB91711351b697C1563d5/transactions)**
  - **[OrderBookUpgradeable](https://github.com/ShibuiDAO/exchange/blob/main/src/contracts/OrderBookUpgradeable.sol)**
    - **Boba Mainnet: [`0xbaeAE633ffF7dD2B03872966d067C2f1F746ae3E`](https://blockexplorer.boba.network/address/0xbaeAE633ffF7dD2B03872966d067C2f1F746ae3E/transactions)**
-   - **Boba Rinkeby: [`0xd3969C449CE3b73A038F1f5F70550E278674E1C1`](https://blockexplorer.rinkeby.boba.network/address/0xd3969C449CE3b73A038F1f5F70550E278674E1C1/transactions)**
+   - **Boba Rinkeby: [`0xA66fFC3770c1E1eDb7FCc4f3066762466F67FB32`](https://blockexplorer.rinkeby.boba.network/address/0xA66fFC3770c1E1eDb7FCc4f3066762466F67FB32/transactions)**
 
 ## Governance
 
