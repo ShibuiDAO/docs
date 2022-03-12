@@ -14,6 +14,13 @@ module.exports = {
 
     nav: [
       {
+        text: "DAO",
+        items: [
+          { text: "Overview", link: "/dao/" },
+          { text: "Token", link: "/dao/Token.md" },
+        ],
+      },
+      {
         text: "NFT Marketplace",
         items: [
           { text: "Overview", link: "/nft/" },
@@ -37,4 +44,10 @@ module.exports = {
     sidebar: "auto",
     smoothScroll: true,
   },
+  markdown: {
+    extendMarkdown: (md) => {
+      md.use(require("markdown-it-footnote"));
+    },
+  },
+  plugins: ["vuepress-plugin-chart"],
 };
