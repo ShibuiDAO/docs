@@ -1,5 +1,16 @@
 # Contracts
 
+## Governance
+
+ - **[Shibui](https://github.com/ShibuiDAO/shibui/blob/main/src/contracts/shibui/Shibui.sol)**
+   - **Boba Mainnet: [`0xF08AD7C3f6b1c6843ba027AD54Ed8DDB6D71169b`](https://blockexplorer.boba.network/address/0xF08AD7C3f6b1c6843ba027AD54Ed8DDB6D71169b/transactions)**
+   - **Boba Rinkeby: [`0x082924B43594244e81223260919A7B8D4547167E`](https://blockexplorer.rinkeby.boba.network/address/0x082924B43594244e81223260919A7B8D4547167E/transactions)**
+ - **[TokenManager](https://github.com/ShibuiDAO/shibui/blob/main/src/contracts/TokenManager.sol)**
+   - **Mainnet: [`N/A`]()**
+   - **Boba Mainnet: [`N/A`]()**
+   - **Rinkeby: [`N/A`]()**
+   - **Boba Rinkeby: [`0xcca704EA3e720eCc5B55841d8586dd6Ae8B14fD8`](https://blockexplorer.rinkeby.boba.network/address/0xcca704EA3e720eCc5B55841d8586dd6Ae8B14fD8/transactions)**
+
 ## Utilities
 
  - **[Multicall](https://github.com/makerdao/multicall/blob/4954d75340bcbe6ca3988e35498d72f76b706233/src/Multicall.sol)**
@@ -23,14 +34,3 @@
  - **[OrderBookUpgradeable](https://github.com/ShibuiDAO/exchange/blob/main/src/contracts/OrderBookUpgradeable.sol)**
    - **Boba Mainnet: [`0xbaeAE633ffF7dD2B03872966d067C2f1F746ae3E`](https://blockexplorer.boba.network/address/0xbaeAE633ffF7dD2B03872966d067C2f1F746ae3E/transactions)**
    - **Boba Rinkeby: [`0xA66fFC3770c1E1eDb7FCc4f3066762466F67FB32`](https://blockexplorer.rinkeby.boba.network/address/0xA66fFC3770c1E1eDb7FCc4f3066762466F67FB32/transactions)**
-
-## Governance
-
- - **[Shibui](https://github.com/ShibuiDAO/shibui/blob/main/src/contracts/shibui/Shibui.sol)**
-   - **Boba Mainnet: [`N/A`]()**
-   - **Boba Rinkeby: [`N/A`]()**
- - **[TokenManager](https://github.com/ShibuiDAO/shibui/blob/main/src/contracts/TokenManager.sol)**
-   - **Mainnet: [`N/A`]()**
-   - **Boba Mainnet: [`N/A`]()**
-   - **Rinkeby: [`N/A`]()**
-   - **Boba Rinkeby: [`N/A`]()**
