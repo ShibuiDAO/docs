@@ -1,5 +1,9 @@
 # Token
 
+## General information
+
+ - [OolongSwap token info page](https://info.oolongswap.com/#/token/0xf08ad7c3f6b1c6843ba027ad54ed8ddb6d71169b)
+
 ## Distribution
 
 |           Target            |   Amount   |
@@ -46,6 +50,10 @@
   }
 }
 ```
+
+### Executed distributions
+
+1. [`0x055eab86cc71ce3ca175af80587a8ee00cb56c395d15ac9168f1f98ab6ec53a2`](https://blockexplorer.boba.network/tx/0x055eab86cc71ce3ca175af80587a8ee00cb56c395d15ac9168f1f98ab6ec53a2/token-transfers) -> 400/1,000,000 Exchange liquidity minted and pooled into OolongSwap at rate of 1:4000 = ETH:🌊 ([`0x439ee9ad77640788ab7430d44d192ad45a9226a9e0095db0c15d2e1ab8d95b90`](https://blockexplorer.boba.network/tx/0x439ee9ad77640788ab7430d44d192ad45a9226a9e0095db0c15d2e1ab8d95b90/token-transfers)).
 
 ## Footnotes
 
