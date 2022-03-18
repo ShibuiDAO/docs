@@ -11,6 +11,16 @@
    - **Rinkeby: [`N/A`]()**
    - **Boba Rinkeby: [`0xcca704EA3e720eCc5B55841d8586dd6Ae8B14fD8`](https://blockexplorer.rinkeby.boba.network/address/0xcca704EA3e720eCc5B55841d8586dd6Ae8B14fD8/transactions)**
 
+## Vesting
+ - **[VestingShibui - F1](https://github.com/ShibuiDAO/shibui/blob/main/src/contracts/vesting/VestingShibui.sol)**
+   - **Boba Mainnet: [`0xA66B1577B8D38652Bea5D049A1fa18396b60332A`](https://blockexplorer.boba.network/address/0xA66B1577B8D38652Bea5D049A1fa18396b60332A/transactions)**
+ - **[VestingShibui - C1](https://github.com/ShibuiDAO/shibui/blob/main/src/contracts/vesting/VestingShibui.sol)**
+   - **Boba Mainnet: [`0x8476d970b996DcCEc693EF0ca0ac826Bf6D80070`](https://blockexplorer.boba.network/address/0x8476d970b996DcCEc693EF0ca0ac826Bf6D80070/transactions)**
+ - **[VestingShibui - A1](https://github.com/ShibuiDAO/shibui/blob/main/src/contracts/vesting/VestingShibui.sol)**
+   - **Boba Mainnet: [`0x79F7109d62296505233439A108858e1d5C20f1Ad`](https://blockexplorer.boba.network/address/0x79F7109d62296505233439A108858e1d5C20f1Ad/transactions)**
+ - **[VestingShibui - A2](https://github.com/ShibuiDAO/shibui/blob/main/src/contracts/vesting/VestingShibui.sol)**
+   - **Boba Mainnet: [`0x878De80fe923EF446C4822A4f5e29a45A93f73b2`](https://blockexplorer.boba.network/address/0x878De80fe923EF446C4822A4f5e29a45A93f73b2/transactions)**
+
 ## Utilities
 
  - **[Multicall](https://github.com/makerdao/multicall/blob/4954d75340bcbe6ca3988e35498d72f76b706233/src/Multicall.sol)**
