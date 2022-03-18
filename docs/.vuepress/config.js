@@ -1,7 +1,7 @@
 const { description } = require("../../package");
 
 module.exports = {
-  title: "ShibuiDAO",
+  title: "Shibui",
   description: description,
 
   themeConfig: {
@@ -14,10 +14,10 @@ module.exports = {
 
     nav: [
       {
-        text: "DAO",
+        text: "Organisation",
         items: [
-          { text: "Overview", link: "/dao/" },
-          { text: "Token", link: "/dao/Token.md" },
+          { text: "Overview", link: "/organisation/" },
+          { text: "Token", link: "/organisation/Token.md" },
         ],
       },
       {

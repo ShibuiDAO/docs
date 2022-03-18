@@ -35,8 +35,12 @@ DEALINGS IN THE SOFTWARE.
       />
 
       <h1 v-if="data.heroText !== null" id="main-title">
-        ShibuiDAO
+        Shibui
       </h1>
+
+      <h2>General information</h2>
+
+      <a class="action-button" href="/organisation/"><u>Organisation</u> Info</a>
 
       <h2>Developer Documentation</h2>
 
