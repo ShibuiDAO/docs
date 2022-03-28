@@ -18,6 +18,16 @@ module.exports = {
         items: [
           { text: "Overview", link: "/organisation/" },
           { text: "Token", link: "/organisation/Token.md" },
+          {
+            text: "Raise",
+            items: [
+              {
+                text: "Boba Brewery IDO",
+                link: "/organisation/raise/BobaBreweryIDO.md",
+              },
+              { text: "NFT", link: "/organisation/raise/NFT.md" },
+            ],
+          },
         ],
       },
       {

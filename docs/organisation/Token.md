@@ -6,16 +6,16 @@
 
 ## Distribution
 
-|           Target            |   Amount   |
-| --------------------------- | ---------- |
-|         BobaDAO[^1]         |  2,500,000 |
-|         Raise - NFT         |  6,000,000 |
-|   Raise - BobaBrewery IDO   |  6,000,000 |
-|      Exchange Liquidity     |  1,000,000 |
-|           Treasury          | 20,000,000 |
-|         Contributors        |   500,000  |
-|         Advisors[^2]        |  4,000,000 |
-|        Founding Team        | 10,000,000 |
+|            Target             |   Amount   |
+| ----------------------------- | ---------- |
+|          BobaDAO[^1]          |  2,500,000 |
+|          Raise - NFT[^2]      |  6,000,000 |
+|  Raise - BobaBrewery IDO[^3]  |  6,000,000 |
+|       Exchange Liquidity      |  1,000,000 |
+|            Treasury           | 20,000,000 |
+|          Contributors         |   500,000  |
+|          Advisors[^4]         |  4,000,000 |
+|         Founding Team         | 10,000,000 |
 
 ```chart
 {
@@ -63,4 +63,8 @@
 
 [^1]: The address holding the `BobaDAO` distribution will be locked from transferring it thus it will only act as voting power. This power can be delegated if they so choose.
 
-[^2]: The "Advisors" distribution is split between 2 people/address'.
+[^2]: More information about the NFT raise can be found [here](./raise/NFT.html).
+
+[^3]: More information about the IDO with Boba Brewery can be found [here](./raise/BobaBreweryIDO.html).
+
+[^4]: The "Advisors" distribution is split between 2 people/address'.
