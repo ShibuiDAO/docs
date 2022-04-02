@@ -10,7 +10,7 @@
 |            Target             |   Amount   |
 | ----------------------------- | ---------- |
 |          BobaDAO[^1]          |  2,500,000 |
-|          Raise - NFT[^2]      |  6,000,000 |
+|        Raise - NFT[^2]        |  6,000,000 |
 |  Raise - BobaBrewery IDO[^3]  |  6,000,000 |
 |       Exchange Liquidity      |  1,000,000 |
 |            Treasury           | 20,000,000 |
