@@ -2,6 +2,7 @@
 
 ## General information
 
+ - [CoinGecko page](https://www.coingecko.com/en/coins/shibui-dao)
  - [OolongSwap token info page](https://info.oolongswap.com/#/token/0xf08ad7c3f6b1c6843ba027ad54ed8ddb6d71169b)
  - [GeckoTerminal page](https://geckoterminal.com/boba/pools/0xce9f38532b3d1e00a88e1f3347601dbc632e7a82)
 
