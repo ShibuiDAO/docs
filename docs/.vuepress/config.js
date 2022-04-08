@@ -34,6 +34,7 @@ module.exports = {
         text: "NFT Marketplace",
         items: [
           { text: "Overview", link: "/nft/" },
+          { text: "Litepaper", link: "/nft/Litepaper.md" },
           {
             text: "Subgraphs",
             items: [{ text: "Exchange", link: "/nft/subgraph/Exchange.md" }],
