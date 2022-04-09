@@ -20,6 +20,11 @@
       "source": "/telegram",
       "destination": "https://t.me/shibuidao",
       "permanent": true
+    },
+    {
+      "source": "/snapshot",
+      "destination": "https://snapshot.org/#/shibuidao.eth",
+      "permanent": true
     }
   ]
 }
