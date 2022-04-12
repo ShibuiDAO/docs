@@ -12,6 +12,8 @@
  - Decimals: 18
  - Maximum supply: 50,000,000 (50 million)
 
+The code for the SHIBUI token can be found on [our Github organisation](https://github.com/ShibuiDAO/shibui/blob/main/src/contracts/shibui/Shibui.sol).
+
 ## Distribution
 
 |            Target             |   Amount   |

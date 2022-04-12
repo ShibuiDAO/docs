@@ -30,6 +30,10 @@ The NFT exchange facilitates said buy (akin to offers) and sell orders to be exe
 
 ### Token
 
+### General Information
+
+General information about the token (SHIBUI) can be found on the [Token subpage](../organisation/Token.html).
+
 #### Distribution
 
 Information about the token (SHIBUI) distribution can be found on the [Token subpage](../organisation/Token.html).
