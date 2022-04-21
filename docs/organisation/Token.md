@@ -21,19 +21,19 @@ The code for the SHIBUI token can be found on [our Github organisation](https://
 |          BobaDAO[^1]          |  2,500,000 |
 |        Raise - NFT[^2]        |  3,000,000 |
 |  Raise - BobaBrewery IDO[^3]  |  2,300,000 |
-|       Exchange Liquidity      |  1,000,000 |
+|       Exchange Liquidity      |  500,000   |
 |            Treasury           | 20,000,000 |
 |          Contributors         |   500,000  |
 |          Advisors[^4]         |  4,000,000 |
 |         Founding Team         | 10,000,000 |
-|        Unallocated[^5]        |  6,700,000 |
+|        Unallocated[^5]        |  7,200,000 |
 
 ```chart
 {
   "type": "doughnut",
   "data": {
     "datasets": [{
-      "data": [2500000, 3000000, 2000000, 1000000, 20000000, 500000, 4000000, 10000000, 7000000],
+      "data": [2500000, 3000000, 2300000, 500000, 20000000, 500000, 4000000, 10000000, 7200000],
       "backgroundColor": ["#d6fe51", "#2f0599", "#6dd477", "#e9a55c", "#fda360", "#fd8260", "#fd6060", "#191b1f", "ff0000"]
     }],
     "labels": ["BobaDAO", "Raise - NFT", "Raise - BobaBrewery IDO", "Exchange Liquidity", "Treasury", "Contributors", "Advisors", "Founding Team", "Unallocated"]
